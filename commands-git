@@ -2,3 +2,4 @@ git clone "lien ssh du projet"
 git add --all
 git commit -m "Message du commit"
 git push
+git pull
