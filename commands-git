@@ -3,3 +3,5 @@ git add --all
 git commit -m "Message du commit"
 git push
 git pull
+git branch "Nom de la branch"
+git checkout "Nom de la branch ou git switch "Nom de la branch"
